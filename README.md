@@ -11,7 +11,7 @@ I'm Kimani Dominic, a passionate developer and learner.
 <!-- You can list the technologies you are familiar with -->
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: python Django
+- Backend: Django
 - Database: PostgreSQL
 - Version Control: Git
 - container: Docker
