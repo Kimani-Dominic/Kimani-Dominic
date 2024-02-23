@@ -3,7 +3,7 @@
 I'm Kimani Dominic, a passionate developer and learner.
 
 - 🔭 I’m currently working on projects to enhance my skills.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Dart and Flutter.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 📫 How to reach me: [kimanimuiruri001@gmail.com](mailto:kimanimuiruri001@gmail.com)
 
