@@ -1,19 +1,5 @@
 # Hi there 👋
 
-I'm Kimani Dominic, a passionate developer and learner.
+I'm Kimani Dominic, a software developer based in Nairobi, Kenya.
 
-- 🔭 I’m currently working on projects to enhance my skills.
-- 🌱 I’m currently learning Dart and Flutter.
-- 👯 I’m looking to collaborate on interesting open-source projects.
-- 📫 How to reach me: [kimanimuiruri001@gmail.com](mailto:kimanimuiruri001@gmail.com)
-
-## Technologies & Tools
-<!-- You can list the technologies you are familiar with -->
-
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Django, Nestjs
-- Database: PostgreSQL, MongoDB
-- Version Control: Git
-- container: Docker
-
-Feel free to reach out! Let's connect and collaborate.
+- Mail: [kimanimuiruri001@gmail.com](mailto:kimanimuiruri001@gmail.com)
